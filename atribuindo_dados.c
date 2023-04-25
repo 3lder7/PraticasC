@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #define texto "Entrada e saida de dados"//texto = vale entrada e saida de dados
 
 int main(){
